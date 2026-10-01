@@ -14,6 +14,7 @@ Donut Chart and Bar Chart Visualizations
 Power BI
 Power Query
 Excel Dataset
+Data Analysis
 
 ## Dashboard
 The dashboard provides insights into customer segments based on total sales.
