@@ -8,7 +8,8 @@ Customer Segmentation (Low, Medium, High Value)
 Total Sales Analysis
 Customer Count
 Interactive Dashboard
-Donut Chart and Bar Chart Visualizations
+Donut Chart 
+Bar Chart Visualizations
 
 ## Tools Used
 Power BI
